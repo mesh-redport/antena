@@ -1,4 +1,4 @@
 # antena
 [3D]
 
-![Antena](img/antena.svg)
+![Antena](img/antena.png)
