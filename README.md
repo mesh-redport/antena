@@ -1,9 +1,10 @@
 # Antena Mesh REdPORT
 
 ## Compomentes
-* Tubos de aluminio (dimensiones)
-* Terciado Marino
-* Alucobond
+* Tubos de aluminio 25mm
+* Terciado Marino 30mm
+* MelicBond (Aluminio compuesto 3mm)
+* Nodos 3D PLA negro 
 
 ![Antena](img/antena.png)
 ![Antena](img/MeshTena1.jpg)
