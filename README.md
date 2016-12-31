@@ -2,7 +2,9 @@
 
 ## Video de ensamblado
 
-[![Alt text](https://img.youtube.com/vi/IEPAHHDajUg/0.jpg)](https://www.youtube.com/watch?v=IEPAHHDajUg)
+[![Video](https://img.youtube.com/vi/IEPAHHDajUg/0.jpg)](https://www.youtube.com/watch?v=IEPAHHDajUg)
+
+En este [vínculo](http://a360.co/2iPRPUU "Archivo en Autodesk Fusion 360") puedes revisar el modelo 3D online y descargarlo en Fusion 360. Además en este repositorio encontrarás los archivos originales en Inventor 2016.
 
 ## Componentes
 
