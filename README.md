@@ -1,6 +1,10 @@
 # Antena Mesh REdPORT
 
-## Compomentes
+## Video de ensamblado
+
+[![Alt text](https://img.youtube.com/vi/IEPAHHDajUg/0.jpg)](https://www.youtube.com/watch?v=IEPAHHDajUg)
+
+
 * Tubos de aluminio 25mm
 * Terciado Marino 30mm
 * MelicBond (Aluminio compuesto 3mm)
