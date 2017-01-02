@@ -29,7 +29,7 @@ En este [vínculo](http://a360.co/2iPRPUU "Archivo en Autodesk Fusion 360") pued
 ![Antena](img/Proceso3.jpg)
 ![Antena](img/Proceso4.jpg)
 
-## Proceso Fabricación 
+## Antecedentes
 
 Primer prototipo del proyecto en el marco del FabAcademy 2016.
 http://archive.fabacademy.org/archives/2016/fablabsantiago/students/391/final.html
